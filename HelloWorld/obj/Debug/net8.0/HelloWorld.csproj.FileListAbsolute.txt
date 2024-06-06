@@ -1,0 +1,14 @@
+/Users/harinduadhikari/Documents/C# program/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/harinduadhikari/Documents/C# program/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/harinduadhikari/Documents/C# program/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/harinduadhikari/Documents/C# program/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/harinduadhikari/Documents/C# program/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/harinduadhikari/Documents/C# program/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
